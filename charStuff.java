@@ -46,8 +46,6 @@ public class CharStuff{
 
 Enter the string: abc*#d
 Sender: #abc***#d#
-
-Enter the sender string: #abc***#d#
 Receiver: abc*#d
 
 */
